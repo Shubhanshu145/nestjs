@@ -1,0 +1,6 @@
+projectKey=nestadmin
+serverUrl=http://localhost:9000
+serverVersion=25.4.0.105899
+dashboardUrl=http://localhost:9000/dashboard?id=nestadmin
+ceTaskId=240be195-43f4-4b45-a16c-0cce3dcf679e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=240be195-43f4-4b45-a16c-0cce3dcf679e
